@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.2">
   <diagram name="Seite-1" id="NwP0xQpwYXZ-26XDF_Jj">
-    <mxGraphModel dx="356" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,13 +15,13 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4E8tl9qiFLDC8F8yXxgw-12" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Regeln" vertex="1">
+        <mxCell id="4E8tl9qiFLDC8F8yXxgw-12" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Geschäftsregel" vertex="1">
           <mxGeometry height="30" width="90" x="320" y="290" as="geometry" />
         </mxCell>
         <mxCell id="4E8tl9qiFLDC8F8yXxgw-27" edge="1" parent="1" source="4E8tl9qiFLDC8F8yXxgw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="4E8tl9qiFLDC8F8yXxgw-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4E8tl9qiFLDC8F8yXxgw-13" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Feld&lt;br&gt;Metadaten" vertex="1">
+        <mxCell id="4E8tl9qiFLDC8F8yXxgw-13" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Tabellenfeld" vertex="1">
           <mxGeometry height="30" width="90" x="320" y="180" as="geometry" />
         </mxCell>
         <mxCell id="4E8tl9qiFLDC8F8yXxgw-15" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#ffff88;strokeColor=#36393d;" value="zugeordnet" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="4E8tl9qiFLDC8F8yXxgw-35" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#ffff88;strokeColor=#36393d;" value="verletzt" vertex="1">
           <mxGeometry height="40" width="80" x="325" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="4E8tl9qiFLDC8F8yXxgw-38" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Entität" vertex="1">
+        <mxCell id="4E8tl9qiFLDC8F8yXxgw-38" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" value="Tabellenzeile" vertex="1">
           <mxGeometry height="30" width="90" x="320" y="440" as="geometry" />
         </mxCell>
         <mxCell id="4E8tl9qiFLDC8F8yXxgw-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=11;fontStyle=4" value="Schlüssel" vertex="1">
