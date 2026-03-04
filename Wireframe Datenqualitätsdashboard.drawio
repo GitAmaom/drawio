@@ -77,6 +77,9 @@
         <mxCell id="rk7d-o5OqHQp5JuuwReQ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Validitäts-&lt;br&gt;Metrik&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="460" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="rk7d-o5OqHQp5JuuwReQ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Platz für weitere Metriken&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="310" x="590" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
